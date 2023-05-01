@@ -1,3 +1,3 @@
 # myphpcrudapp
 
-to run the code in display.php
+to run the app run display.php file
